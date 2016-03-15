@@ -1,0 +1,16 @@
+.button {
+	margin: 0 auto;
+	display: block;
+	height: 5em;
+	width: 10em;
+	background: lightblue;
+	color: darkblue;
+	font-weight: bold;
+	border: 2px dotted black;
+}
+
+.button:hover {
+	background: green;
+	color: #fff;
+	border: none;
+}
