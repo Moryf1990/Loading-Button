@@ -1,4 +1,4 @@
-var button = document.querySelector('button');
+var button = document.querySelector('.button');
 
 button.addEventListener('click', loadButton);
 button.addEventListener('click', buttonTimeout);
